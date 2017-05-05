@@ -12,6 +12,7 @@ permalink: /portfolio/
 |   Tic Tac Toe 	|   [demo](https://viiqswim.github.io/tic-tac-toe-react/demo/)	|   [code](https://github.com/viiqswim/tic-tac-toe-react)	|
 |   Tetris      	|   [demo](https://viiqswim.github.io/tetris-redux)	            |   [code](https://github.com/viiqswim/tetris-redux)	    |
 
-### Contact me
-
-[victordozal.com](http://www.victordozal.com)
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
