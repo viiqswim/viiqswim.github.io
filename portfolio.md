@@ -14,7 +14,7 @@ permalink: /portfolio/
 ### [Phaser (JavaScript Game Engine)](http://phaser.io/)
 
 |:---	            |:---	|:---	|
-|   Hit The Beat    |   [demo](https://viiqswim.github.io/https://viiqswim.github.io/hit_the_beat)  |   [code](https://github.com/viiqswim/hit_the_beat)	    |
+|   Hit The Beat    |   [demo](https://viiqswim.github.io/hit_the_beat)  |   [code](https://github.com/viiqswim/hit_the_beat)	    |
 |   Invaders        |   [demo](https://viiqswim.github.io/invaders-phaser/)  |   [code](https://github.com/viiqswim/invaders-phaser)	    |
 |   Brick Breaker   |   [demo](https://viiqswim.github.io/brick-breaker-phaser/)  |   [code](https://github.com/viiqswim/brick-breaker-phaser)	    |
 
