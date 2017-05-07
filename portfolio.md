@@ -23,3 +23,8 @@ permalink: /portfolio/
 |:---	            |:---	|:---	|
 |   Music Player    |   [demo](https://viiqswim.github.io/music-player-angular/public/)  |   [code](https://github.com/viiqswim/music-player-angular)	    |
 |   Weather Forecast    |   [demo](https://viiqswim.github.io/weather-app-angular/app/#/forecast)  |   [code](https://github.com/viiqswim/weather-app-angular)	    |
+
+### [AngularJS 2](https://angular.io/)
+
+|:---	            |:---	|:---	|
+|   Current Weather    |   [demo](https://viiqswim.github.io/weather-app-angular-2/public/)  |   [code](https://github.com/viiqswim/weather-app-angular)	    |
