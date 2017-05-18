@@ -7,7 +7,7 @@ permalink: /portfolio/
 ### [ReactJS](https://facebook.github.io/react/)
 
 |:---	            |:---	|:---	|
-|   Tetris      	|   [demo](https://viiqswim.github.io/tetris-redux)	            |   [code](https://github.com/viiqswim/tetris-redux)	    |
+|   Tetris      	|   [demo](https://viiqswim.github.io/tetris-game)	            |   [code](https://github.com/viiqswim/tetris-game)	    |
 |   Tic Tac Toe 	|   [demo](https://viiqswim.github.io/tic-tac-toe-react/demo/)	|   [code](https://github.com/viiqswim/tic-tac-toe-react)	|
 |   Pokemon Pokedex	|   [demo](https://viiqswim.github.io/pokedex-react-redux/)	    |   [code](https://github.com/viiqswim/pokedex-react-redux)	|
 
@@ -22,7 +22,6 @@ permalink: /portfolio/
 
 |:---	            |:---	|:---	|
 |   Music Player    |   [demo](https://viiqswim.github.io/music-player-angular/public/)  |   [code](https://github.com/viiqswim/music-player-angular)	    |
-|   Weather Forecast    |   [demo](https://viiqswim.github.io/weather-app-angular/app/#/forecast)  |   [code](https://github.com/viiqswim/weather-app-angular)	    |
 
 ### [AngularJS 2](https://angular.io/)
 
